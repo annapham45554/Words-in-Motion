@@ -1,43 +1,56 @@
-# Project 1: Digital Time Capsule
+# Project 2: Words in Motion
 ### by Anna Pham
 ## Project overview
-The project is about building a personal website that describes the designer’s identity, interests, and activities. The website has 4 pages: a home page, an about page, an interest page, and an activity page. 300+ words of introduction are written and divided on each page. 
+We are equal, but with diverse ways and meaning of life,
+We are equal, but end with same manner in this life,
+At least, we all shall wind up, not knowing the end,
+At least our fate make us equal to each other, in this life,
+Our community is large,
+But with less friends,
+As we consider others as strangers,
+Even though they are our same kind,
+They came to this world just like us,
+And will come to an end just like us,
+Our flowers grow, and rot till time,
+Just as us, everything carry same fate,
+In our world, everyone is equal,
+But we are confined to communities,
+Communities are built on a new dream,
+That will come to others hands as well. - Sarah Shahzad
 
-The home page is used as a landing page, which has a GIF and a brief sentence of introduction. The other three pages have images and descriptions to demonstrate further detail of what the Home page talks about. Every page has a header and footer, a navigation bar, and one logo as a Home button. The menu is placed in the navigation bar (the header), and the contact information is placed in the footer. The website's overall color is green, with the header and footer being dark green and the main background being white-light green. The font type is Sans Serif, with two font families: Gill Sans Nova (Adobe fonts) and Poppins (Google fonts). The words in the menu navigation have the hover effect, which turns into a different color when the mouse hovers over it. 
+
+This poem was chosen because it relates to how a community is. A community is not a specific group defined by hobbies or backgrounds, but rather as a large group of many differences that co-exist as a whole. Everywhere can be a community as long as every individual is a part of this world. Many human beings are different from each other, but all are living together on the same planet. 
+
+The project consists of 10 pages: 1 Home page and 9 content pages; and two different colors apply to each page in order: blue first then green. Font types are Nexus Serif, Adorn Smooth, Rockwell, and Hello Bloomie. Nexus Serif is used as the main font type and white color is used as the main font color, while the three other font types are used for the hover effect with different colors. Every 2 sentences of the poem are separated on each page, and the texts are rendered around a curvy path. Each text has a hover effect in either changing color, animation, font type, or transition and transform. One word on each page works as a navigation link to the other page. 
+
 ## Technical overview
-GIF animation was executed in Adobe Photoshop, and the illustration for the GIF and the logo was executed in Adobe Illustrator. Hand-drawn low-fidelity wireframes and Adobe XD were used for building the general hierarchy and visual layout of a website. The website was built in VSC (Visual Studio Code), where HTML and CSS are used for setting up the content and visual aspects. 
-
+The curved line was executed in Adobe Illustration and saved as an SVG file and copied and pasted the SVG code into html. Except for the Home page, every other text on other pages is rendered along the path (curved line) to make them have movement. Every word is put in a <textpath> element. Both the <textpath> and <path> elements inside the <text> element are marked with class or id. 
 #### Elements that are frequently used in HTML are:
 <ul>
-<li>h1 h2 h3 (heading)</li>
 <li>p (paragraph)</li>
-<li>img (images) Used for both GIF and PNG or JPG images</li>
 <li>div or div class and div id (target specific parts of a document)</li>
-<li>ul li (unordered list)</li>
 <li>header footer (for header and footer content)</li>
-<li>nav (navigation)</li>
 <li>br (line break)</li>
+<li>text</li>
+<li>textpath</li>
 </ul>
 
 #### Properties that are frequently used in CSS are:
 <ul>
-<li>Background-color or color (either fonts or border)</li>
+<li>Background-color or color</li>
 <li>Padding</li>
 <li>Margin</li>
 <li>Fonts (size, type, family, style)</li>
 <li>Flexbox</li>
-<li>Text-align</li>
 <li>Text-decoration</li>
-<li>List-style-type</li>
 <li>:hover</li>
 <li>position: sticky</li>
-<li>background image</li>
+<li>transition-property</li>
+<li>transition-duration</li>
+<li>transition-timing-function</li>
+<li>transition-delay</li>
+<li>transform</li>
 </ul>
 
 ## Acknowledgment
 Sources that helps me coding in CSS:
-<ul>
-<li><a href="https://www.tutorialspoint.com/what-is-greater-than-sign-gt-selector-in-css">Greater-than sign</a></li> 
-<li><a href="https://www.w3schools.com/cssref/sel_hover.php">Hover effect</a></li>
-<li><a href="https://www.w3schools.com/cssref/css3_pr_mediaquery.php">@media</a></li>
-<li><a href="https://sumudusiriwardana.hashnode.dev/flexbox-cheat-sheet">flexbox</a></li>
