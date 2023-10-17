@@ -80,6 +80,9 @@ p {
 }
 
 .word3 {
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     position: absolute;
     left: 26%;
     animation-name: scaleFont1;
@@ -152,6 +155,9 @@ p {
 }
 
 .word9 {
+    font-family: "adorn-smooth-condensed-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     position: absolute;
     left: 24%;
     animation-name: fontChangeAppear1a;
@@ -176,6 +182,9 @@ p {
 }
 
 .word11 {
+    font-family: "hello-bloomie-script", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     position: absolute;
     left: 48%;
     animation-name: fontChangeAppear1b;
@@ -217,6 +226,9 @@ p {
 
 }
 .word14 {
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     position: absolute;
     left: 26%;
     animation-name: scaleFont2;
@@ -272,6 +284,9 @@ p {
     animation-timing-function: ease-out;
 }
 .word19 {
+    font-family: "adorn-smooth-condensed-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     position: absolute;
     left: 51%;
     animation-name: fontChangeAppear2a;
@@ -305,6 +320,9 @@ p {
     animation-timing-function: ease-out;
 }
 .word22 > a {
+    font-family: "hello-bloomie-script", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     color: #435701;
     text-decoration: none;
     position: absolute;
@@ -361,6 +379,9 @@ p {
 }
 
 .word26 {
+    font-family: "adorn-smooth-condensed-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     position:absolute;
     left: 29%;
     animation-name: scaleFont3a;
@@ -421,6 +442,9 @@ p {
 }
 
 .word31 {
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     position:absolute;
     left: 68%;
     animation-name: scaleFont3b;
@@ -433,6 +457,9 @@ p {
 }
 
 .word32a {
+    font-family: "hello-bloomie-script", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     position:absolute;
     left: 18%;
     animation-name: Spreadingright1;
@@ -445,6 +472,9 @@ p {
 }
 
 .word32b {
+    font-family: "hello-bloomie-script", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     position:absolute;
     left: 22%;
     animation-name: Spreadingright1;
@@ -457,6 +487,9 @@ p {
 }
 
 .word32c {
+    font-family: "hello-bloomie-script", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     position:absolute;
     left: 27%;
     animation-name: Spreadingright1;
@@ -469,6 +502,9 @@ p {
 }
 
 .word33a {
+    font-family: "hello-bloomie-script", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     position:absolute;
     left: 45%;
     animation-name: Spreadingleft1;
@@ -481,6 +517,9 @@ p {
 }
 
 .word33b {
+    font-family: "hello-bloomie-script", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     position:absolute;
     left: 49.5%;
     animation-name: Spreadingleft1;
@@ -493,6 +532,9 @@ p {
 }
 
 .word33c {
+    font-family: "hello-bloomie-script", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     position:absolute;
     left: 54.8%;
     animation-name: Spreadingleft1;
@@ -545,6 +587,9 @@ p {
 }
 
 .word37 {
+    font-family: "adorn-smooth-condensed-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     position:absolute;
     left: 30%;
     animation-name: scaleFont4a;
@@ -581,6 +626,9 @@ p {
 }
 
 .word40 {
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     position:absolute;
     left: 61.5%;
     animation-name: scaleFont4b;
@@ -736,7 +784,10 @@ p {
     animation-timing-function: ease-out;
 }
 
-.word46 > a {
+p > .word46 > a {
+    font-family: "hello-bloomie-script", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     position:absolute;
     color:#003E5F;
     text-decoration: none;
@@ -753,52 +804,109 @@ p {
 
 /* Page 4*/
 
+.line5 {
+    font-size: 250%;
+    color: white;
+}
+
 .word47 {
-    
+    position: absolute;
+    left: 16%;
+    animation-name: upToDown2a;
+    animation-delay: none;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
 }
 
 .word48a {
-    
+    font-family: "adorn-smooth-condensed-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    left: 23%;
+    animation-name: downToUp2a;
+    animation-delay: 1s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
 }
 
 .word48b {
-    
+    position: absolute;
 }
 
 .word48c {
-    
+    position: absolute;
 }
 
 .word48d {
-    
+    position: absolute;
 }
 
 .word48e {
-    
+    position: absolute;
 }
 
 .word48f {
-    
+    position: absolute;
 }
 
 .word48g {
-    
+    position: absolute;
 }
 
 .word48h {
-    
+    position: absolute;
 }
 
 .word48i {
-    
+    position: absolute;
 }
 
 .word49 {
-    
+    position: absolute;
 }
 
 .word50 {
-    
+    position: absolute;
+}
+
+.line6 {
+    font-size: 250%;
+    color: white;
+}
+
+.word51 {
+    position: absolute;
+}
+
+.word52 {
+    position: absolute;
+}
+
+.word53a {
+    position: absolute;
+}
+
+.word53b {
+    position: absolute;
+}
+
+.word53c {
+    position: absolute;
+}
+
+.word53d {
+    position: absolute;
+}
+
+.word54 {
+    position: absolute;
 }
 
 /* Page 5*/
@@ -854,17 +962,11 @@ p {
     from {
     margin-left: 50%;
     margin-top: 10%;
-    font-family: "ff-nexus-serif", serif;
-    font-weight: 400;
-    font-style: normal;
     color:#435701;
  }
     to {
     margin-right: 30%;
     margin-top: 10%;
-    font-family: "rockwell", sans-serif;
-    font-weight: 400;
-    font-style: normal;
     transform: scale(270%);
     color: whitesmoke;
     }
@@ -903,9 +1005,6 @@ p {
     to {
     margin-top: 18%;
     color: rgb(234, 143, 234);
-    font-family: "adorn-smooth-condensed-sans", sans-serif;
-    font-weight: 400;
-    font-style: normal;
     transform: rotateX(700deg) scale(260%);
     }
 }
@@ -918,9 +1017,6 @@ p {
     to {
     margin-top: 19%;
     color: rgb(176, 240, 255);
-    font-family: "hello-bloomie-script", sans-serif;
-    font-weight: 400;
-    font-style: normal;
     transform: scale(200%);
     }
 }
@@ -949,9 +1045,6 @@ p {
         to {
         margin-left: 30%;
         margin-top: 30%;
-        font-family: "rockwell", sans-serif;
-        font-weight: 400;
-        font-style: normal;
         transform: scale(270%);
         color: whitesmoke;
         }
@@ -991,9 +1084,6 @@ p {
     to {
         margin-top: 38%;
         color: rgb(248, 156, 76);
-        font-family: "adorn-smooth-condensed-sans", sans-serif;
-        font-weight: 400;
-        font-style: normal;
         transform: rotateX(700deg) scale(260%);
     }
 }
@@ -1006,9 +1096,6 @@ p {
     to {
         margin-top: 39%;
         color: rgb(176, 240, 255);
-        font-family: "hello-bloomie-script", sans-serif;
-        font-weight: 400;
-        font-style: normal;
         transform: scale(200%);
     }
 }
@@ -1037,9 +1124,6 @@ p {
         margin-top: 10%;
         color: #ff9595;
         transform: scale(280%);
-        font-family: "adorn-smooth-condensed-sans", sans-serif;
-        font-weight: 400;
-        font-style: normal;
         text-transform: uppercase;
     }
 }
@@ -1076,9 +1160,6 @@ p {
     to {
         margin-top: 10%;
         color: #ebc1ff;
-        font-family: "rockwell", sans-serif;
-        font-weight: 400;
-        font-style: normal;
         transform: scale(250%);
     }
 }
@@ -1093,9 +1174,6 @@ p {
         margin-left: 10%;
         margin-top: 20%;
         color: #000000;
-        font-family: "hello-bloomie-script", sans-serif;
-        font-weight: 400;
-        font-style: normal;
         transform: scale(250%) rotate(360deg);
     }
 }
@@ -1110,9 +1188,6 @@ p {
         margin-right: 10%;
         margin-top: 20%;
         color: #000000;
-        font-family: "hello-bloomie-script", sans-serif;
-        font-weight: 400;
-        font-style: normal;
         transform: scale(250%) rotate(-360deg);
     }
 }
@@ -1139,9 +1214,6 @@ p {
         margin-top: 30%;
         color: #86d1fd;
         transform: scale(280%);
-        font-family: "adorn-smooth-condensed-sans", sans-serif;
-        font-weight: 400;
-        font-style: normal;
         text-transform: uppercase;
     }
 }
@@ -1167,9 +1239,6 @@ p {
         margin-top: 30%;
         color: #ffffff;
         transform: scale(280%);
-        font-family: "rockwell", sans-serif;
-        font-weight: 400;
-        font-style: normal;
         transform: scale(250%);
     }
 }
@@ -1221,9 +1290,9 @@ p {
     to {
         margin-top: 39%;
         color:#9cff9b;
-        font-family: "hello-bloomie-script", sans-serif;
+        /*font-family: "hello-bloomie-script", sans-serif;
         font-weight: 400;
-        font-style: normal;
+        font-style: normal;*/
         transform: scale(200%);
     }
 }
@@ -1232,7 +1301,27 @@ p {
 
 /* line 5 */
 
+@keyframes upToDown2a {
+    from {
+        margin-top: 5%;
+        color: #435701;
+    }
+    to {
+        margin-top: 20%;
+        color: #faed73;
+    }
+}
 
-
+@keyframes downToUp2a {
+    from {
+        margin-top: 50%;
+        color: #435701;
+    }
+    to {
+        margin-top: 20%;
+        color: #d6a0ff;
+        transform: rotateX(360deg) scale(200%);
+    }
+}
 
 /* line 6 */
