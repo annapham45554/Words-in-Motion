@@ -48,6 +48,17 @@ p {
     animation-timing-function: ease-out;
 }
 
+.intro > p {
+    transition-property: transform;
+    transition-duration: 2s;
+    transition-timing-function: ease-out;
+    transition-delay: none;
+}
+
+.intro > p:hover {
+    transform: scale(150%);
+}
+
 /* Page 2*/
 
 .line1 {
@@ -61,7 +72,7 @@ p {
     animation-name: rightToLeft1;
     animation-delay: none;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -806,7 +817,6 @@ p > .word46 > a {
 
 .line5 {
     font-size: 250%;
-    color: white;
 }
 
 .word47 {
@@ -837,77 +847,254 @@ p > .word46 > a {
 }
 
 .word48b {
+    font-family: "adorn-smooth-condensed-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
     position: absolute;
+    left: 25.5%;
+    animation-name: upToDown2b;
+    animation-delay: 1.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
 }
 
 .word48c {
     position: absolute;
+    font-family: "adorn-smooth-condensed-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    left: 28.5%;
+    animation-name: downToUp2a;
+    animation-delay: 2s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
 }
 
 .word48d {
     position: absolute;
+    font-family: "adorn-smooth-condensed-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    left: 32%;
+    animation-name: upToDown2b;
+    animation-delay: 2.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
 }
 
 .word48e {
     position: absolute;
+    font-family: "adorn-smooth-condensed-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    left: 35.5%;
+    animation-name: downToUp2a;
+    animation-delay: 3s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
 }
 
 .word48f {
     position: absolute;
+    font-family: "adorn-smooth-condensed-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    left: 38.5%;
+    animation-name: upToDown2b;
+    animation-delay: 3.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
 }
 
 .word48g {
     position: absolute;
+    font-family: "adorn-smooth-condensed-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    left: 41.5%;
+    animation-name: downToUp2a;
+    animation-delay: 4s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
 }
 
 .word48h {
     position: absolute;
+    font-family: "adorn-smooth-condensed-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    left: 43.5%;
+    animation-name: upToDown2b;
+    animation-delay: 4.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
 }
 
 .word48i {
     position: absolute;
+    font-family: "adorn-smooth-condensed-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    left: 46%;
+    animation-name: downToUp2a;
+    animation-delay: 5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
 }
 
 .word49 {
     position: absolute;
+    left: 49.5%;
+    animation-name: upToDown2a;
+    animation-delay: 6s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
 }
 
 .word50 {
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: uppercase;
     position: absolute;
+    left: 63%;
+    animation-name: scaleFontAppear1;
+    animation-delay: 7s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
 }
 
 .line6 {
     font-size: 250%;
-    color: white;
 }
+
 
 .word51 {
     position: absolute;
+    left: 16%;
+    animation-name: downToUp2b;
+    animation-delay: 9s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
 }
 
 .word52 {
     position: absolute;
+    left: 22%;
+    animation-name: upToDown2c;
+    animation-delay: 10s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
 }
 
 .word53a {
     position: absolute;
+    left: 25%;
+    animation-name: moveRight1;
+    animation-delay: 11s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
 }
 
 .word53b {
     position: absolute;
+    left: 27%;
+    animation-name: moveRight2;
+    animation-delay: 11.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
 }
 
 .word53c {
     position: absolute;
+    left: 35%;
+    animation-name: moveLeft1;
+    animation-delay: 12s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
 }
 
 .word53d {
     position: absolute;
+    left: 38%;
+    animation-name: moveLeft2;
+    animation-delay: 12.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
 }
 
-.word54 {
+.word54 > a {
+    font-family: "hello-bloomie-script", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    color: #435701;
     position: absolute;
+    left: 55%;
+    animation-name: scaleFontAppear2;
+    animation-delay: 13.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-out;
 }
+
 
 /* Page 5*/
 
@@ -1238,7 +1425,6 @@ p > .word46 > a {
     to {
         margin-top: 30%;
         color: #ffffff;
-        transform: scale(280%);
         transform: scale(250%);
     }
 }
@@ -1290,9 +1476,6 @@ p > .word46 > a {
     to {
         margin-top: 39%;
         color:#9cff9b;
-        /*font-family: "hello-bloomie-script", sans-serif;
-        font-weight: 400;
-        font-style: normal;*/
         transform: scale(200%);
     }
 }
@@ -1324,4 +1507,122 @@ p > .word46 > a {
     }
 }
 
+@keyframes upToDown2b {
+    from {
+        margin-top: 5%;
+        color: #435701;
+    }
+    to {
+        margin-top: 20%;
+        color: #d6a0ff;
+        transform: rotateX(-360deg) scale(200%);
+    }
+}
+
+@keyframes scaleFontAppear1 {
+    from {
+        margin-top: 20%;
+        color:#435701
+    }
+    to {
+        margin-top: 20%;
+        color: #f1f1f1;
+        transform: scale(300%);
+    }
+}
+
 /* line 6 */
+
+@keyframes downToUp2b {
+    from {
+        margin-top: 50%;
+        color: #435701;
+    }
+    to {
+        margin-top: 28%;
+        color:#faed73;
+    }
+}
+
+@keyframes upToDown2c {
+    from {
+        margin-top: 5%;
+        color: #435701;
+    }
+    to {
+        margin-top: 28%;
+        color: #faed73;
+    }
+}
+
+@keyframes moveRight1 {
+    from {
+        margin-right: 70%;
+        margin-top: 27%;
+        color: #435701;
+    }
+    to {
+        margin-left: 5%;
+        margin-top: 27%;
+        color: #dae9fd;
+        transform: rotateY(360deg) scale(200%) 
+        skew(30deg);
+    }
+}
+
+@keyframes moveRight2 {
+    from {
+        margin-right: 70%;
+        margin-top: 27%;
+        color: #435701;
+    }
+    to {
+        margin-left: 5%;
+        margin-top: 27%;
+        color: #a7ceff;
+        transform: rotateY(360deg) scale(200%) 
+        skew(30deg) translateX(20%);
+    }
+}
+
+@keyframes moveLeft1 {
+    from {
+        margin-left: 40%;
+        margin-top: 27%;
+        color: #435701;
+    }
+    to {
+        margin-right: 5%;
+        margin-top: 27%;
+        color: #70b1ff;
+        transform: rotateY(-360deg) scale(200%) 
+        skew(30deg) translateX(20%);
+    }
+}
+
+@keyframes moveLeft2 {
+    from {
+        margin-left: 40%;
+        margin-top: 27%;
+        color: #435701;
+    }
+    to {
+        margin-right: 5%;
+        margin-top: 27%;
+        color: #3d95ff;
+        transform: rotateY(-360deg) scale(200%) 
+        skew(30deg) translateX(20%);
+    }
+}
+
+@keyframes scaleFontAppear2 {
+    from {
+        margin-top: 27%;
+        color: #435701;
+    }
+    to {
+        margin-top: 27%;
+        color: #e0a256;
+        transform: scale(300%) rotateY(360deg);
+    }
+}
