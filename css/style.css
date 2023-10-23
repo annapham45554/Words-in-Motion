@@ -2253,7 +2253,7 @@ p > .word46 > a {
     animation-direction: alternate;
     animation-duration: 2s;
     animation-fill-mode: forwards;
-    animation-iteration-count: infinite;
+    animation-iteration-count: once;
     animation-timing-function: ease-out;
 }
 
