@@ -11,11 +11,6 @@ But with less friends,<br>
 As we consider others as strangers,<br>
 Even though they are our same kind,
 
-They came to this world just like us,<br>
-And will come to an end just like us,<br>
-Our flowers grow, and rot till time,<br>
-Just as us, everything carry same fate,
-
 In our world, everyone is equal,<br>
 But we are confined to communities,<br>
 Communities are built on a new dream,<br>
@@ -24,7 +19,7 @@ That will come to others hands as well.<br> - Sarah Shahzad
 
 This poem was chosen because it relates to how a community is. A community is not a specific group defined by hobbies or backgrounds, but rather as a large group of many differences that co-exist as a whole. Everywhere can be a community as long as every individual is a part of this world. Many human beings are different from each other, but all are living together on the same planet. 
 
-The project consists of 10 pages: 1 Home page and 9 content pages; and two different background colors apply to each page in order: blue first then green. Font types are Nexus Serif, Adorn Smooth, Rockwell, and Hello Bloomie. Nexus Serif is used as the main font type and white color is used as the main font color, while the three other font types are used for the animation effect with different colors. Every 2 sentences of the poem are separated on each page. Each text has an animation effect in either changing color, font type, or transform. One word on each page works as a navigation link to the other page. 
+The project consists of 8 pages: 1 Home page, 6 content pages, and 1 credit page to the author; and two different background colors apply to each page in order: blue first then green. Font types are Nexus Serif, Adorn Smooth, Rockwell, and Hello Bloomie. Nexus Serif is used as the main font type and white color is used as the main font color, while the three other font types are used for the animation effect with different colors. Every 2 sentences of the poem are separated on each page. Each text has an animation effect in either changing color, font type, or transform. One word on each page works as a navigation link to the other page. 
 
 ## Technical overview
 The layout was experimented in Adobe XD to have a general view on how the project will look like. Every word is put in a <text> element. Every text is marked with class or id. 

@@ -28,6 +28,7 @@ p {
 }
 
 /* Home - page 1*/
+
 .intro {
     display: flex;
     justify-content: center;
@@ -1005,7 +1006,6 @@ p > .word46 > a {
     font-size: 250%;
 }
 
-
 .word51 {
     position: absolute;
     left: 16%;
@@ -1098,27 +1098,1230 @@ p > .word46 > a {
 
 /* Page 5*/
 
+.line7 {
+    font-size: 250%;
+}
+
+.word55 {
+    position: absolute;
+    left: 30%;
+    animation-name: goDown1;
+    animation-delay: none;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;   
+}
+
+.word56 {
+    position: absolute;   
+    left: 31%;
+    animation-name: goRight1;
+    animation-delay: none;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word57a {
+    font-family: "adorn-smooth-condensed-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute; 
+    left: 40.5%;
+    animation-name: wordAppearDown1;
+    animation-delay: 1s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word57b {  
+    font-family: "adorn-smooth-condensed-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute; 
+    left: 45%;
+    animation-name: wordAppearUp1;
+    animation-delay: 1.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word57c {
+    font-family: "adorn-smooth-condensed-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute; 
+    left: 50%;
+    animation-name: wordAppearDown1;
+    animation-delay: 2s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;   
+}
+
+.word57d { 
+    font-family: "adorn-smooth-condensed-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute; 
+    left: 55%;
+    animation-name: wordAppearUp1;
+    animation-delay: 2.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;   
+}
+
+.word57e {
+    font-family: "adorn-smooth-condensed-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute; 
+    left: 58.5%;
+    animation-name: wordAppearDown1;
+    animation-delay: 3s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;     
+}
+
+.word57f {
+    font-family: "adorn-smooth-condensed-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute; 
+    left: 62%;
+    animation-name: wordAppearUp1;
+    animation-delay: 3.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;     
+}
+
+.word57g {
+    font-family: "adorn-smooth-condensed-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute; 
+    left: 66%;
+    animation-name: wordAppearDown1;
+    animation-delay: 4s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;      
+}
+
+.word57h {
+    font-family: "adorn-smooth-condensed-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute; 
+    left: 70%;
+    animation-name: wordAppearUp1;
+    animation-delay: 4.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;     
+}
+
+.word58 {
+    position: absolute;   
+    left: 28%;
+    animation-name: goLeft1;
+    animation-delay: 5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word59 {
+    position: absolute;   
+    left: 35%;
+    animation-name: goRight2;
+    animation-delay: 5.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word60a {
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;   
+    left: 46%;
+    animation-name: wordAppear1;
+    animation-delay: 6s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word60b {
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;   
+    left: 49%;
+    animation-name: wordAppear1;
+    animation-delay: 6.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word60c {
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;   
+    left: 52%;
+    animation-name: wordAppear1;
+    animation-delay: 7s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word60d {
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;   
+    left: 55.3%;
+    animation-name: wordAppear1;
+    animation-delay: 7.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word60e {
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;   
+    left: 59%;
+    animation-name: wordAppear1;
+    animation-delay: 8s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word60f {
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;   
+    left: 62.5%;
+    animation-name: wordAppear1;
+    animation-delay: 8.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word60g {
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;   
+    left: 66.3%;
+    animation-name: wordAppear1;
+    animation-delay: 9s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word60h {
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;   
+    left: 70%;
+    animation-name: wordAppear1;
+    animation-delay: 9.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word60i {
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;   
+    left: 73%;
+    animation-name: wordAppear1;
+    animation-delay: 10s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word60j {
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;   
+    left: 75%;
+    animation-name: wordAppear1;
+    animation-delay: 10.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.line8 {
+    font-size: 250%;
+}
+
+.word61a {
+    position: absolute; 
+    left: 43%;
+    animation-name: goLeft2;
+    animation-delay: 12s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word61b {
+    position: absolute;  
+    left: 45%;
+    animation-name: goRight3;
+    animation-delay: 12.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word62 {
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+    position: absolute;
+    left: 36%;
+    animation-name: goUp1;
+    animation-delay: 13s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;   
+}
+
+.word63 {
+    position: absolute;  
+    left: 48%;
+    animation-name: goDown2;
+    animation-delay: 14s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;  
+}
+
+.word64a {
+    position: absolute;  
+    left: 50%;
+    animation-name: goRight4;
+    animation-delay: 15s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;  
+}
+
+.word64b {
+    position: absolute;  
+    left: 51%;
+    animation-name: goRight5;
+    animation-delay: 15.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;  
+}
+
+.word64c {
+    position: absolute;  
+    left: 52%;
+    animation-name: goRight6;
+    animation-delay: 16s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;  
+}
+
+.word65a {
+    font-family: "adorn-smooth-condensed-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;  
+    left: 36%;
+    animation-name: wordAppearDown2;
+    animation-delay: 17s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;  
+}
+
+.word65b {
+    font-family: "adorn-smooth-condensed-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;  
+    left: 39%;
+    animation-name: wordAppearUp2;
+    animation-delay: 17.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;  
+}
+
+.word65c {
+    font-family: "adorn-smooth-condensed-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;  
+    left: 42.3%;
+    animation-name: wordAppearDown2;
+    animation-delay: 18s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;   
+}
+
+.word65d {
+    font-family: "adorn-smooth-condensed-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;  
+    left: 46%;
+    animation-name: wordAppearUp2;
+    animation-delay: 18.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;   
+}
+
+.word66 > a {
+    font-family: "hello-bloomie-script", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #003E5F;
+    text-decoration: none;
+    position: absolute;  
+    left: 59%;
+    animation-name: scaleFontAppear3;
+    animation-delay: 19s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-out; 
+}
+
 
 /* Page 6*/
 
+.line9 {
+    font-size: 250%;
+}
+
+.word67 {
+    position: absolute;
+    left: 44%;
+    animation-name: runDown1;
+    animation-delay: none;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word68 {
+    position: absolute;
+    left: 43%;
+    animation-name: runDown2;
+    animation-delay: 1s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
+}
+
+.word69 {
+    font-family: "adorn-smooth-condensed-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    left: 37%;
+    animation-name: runDown3;
+    animation-delay: 2s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
+}
+
+.word70 {
+    position: absolute;
+    left: 37%;
+    animation-name: runDown4;
+    animation-delay: 3s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
+}
+
+.word71 {
+    position: absolute;
+    left: 45%;
+    animation-name: runDown5;
+    animation-delay: 4s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
+}
+
+.word72a {
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+    position: absolute;
+    left: 30%;
+    animation-name: runDown6;
+    animation-delay: 5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;   
+}
+
+.word72b {
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+    position: absolute;
+    left: 34%;
+    animation-name: runDown6;
+    animation-delay: 5.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word72c {
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+    position: absolute;
+    left: 38%;
+    animation-name: runDown6;
+    animation-delay: 6s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word72d {
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+    position: absolute;
+    left: 42%;
+    animation-name: runDown6;
+    animation-delay: 6.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word72e {
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal; 
+    position: absolute;
+    left: 46%;
+    animation-name: runDown6;
+    animation-delay: 7s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.line10 {
+    font-size: 250%;
+}
+
+.word73 {
+    position: absolute;
+    left: 50%;
+    animation-name: runUp1;
+    animation-delay: 9s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word74 {
+    position: absolute;
+    left: 50%;
+    animation-name: runUp2;
+    animation-delay: 10s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word75 {
+    position: absolute;
+    left: 50%;
+    animation-name: runUp3;
+    animation-delay: 11s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word76a {
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    left: 50%;
+    animation-name: runUp4;
+    animation-delay: 12s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word76b {
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    left: 54%;
+    animation-name: runUp4;
+    animation-delay: 12.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word76c {
+    position: absolute;
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    left: 58%;
+    animation-name: runUp4;
+    animation-delay: 13s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word76d {
+    position: absolute;
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    left: 62%;
+    animation-name: runUp4;
+    animation-delay: 13.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word76e {
+    position: absolute;
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    left: 65%;
+    animation-name: runUp4;
+    animation-delay: 14s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word76f {
+    position: absolute;
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    left: 68%;
+    animation-name: runUp4;
+    animation-delay: 14.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word76g {
+    position: absolute;
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    left: 72%;
+    animation-name: runUp4;
+    animation-delay: 15s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word76h {
+    position: absolute;
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    left: 76%;
+    animation-name: runUp4;
+    animation-delay: 15.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word77 {
+    position: absolute;
+    left: 50%;
+    animation-name: runUp5;
+    animation-delay: 16s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word78 > a {
+    font-family: "hello-bloomie-script", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    color:#435701;
+    position: absolute;
+    left: 50%;
+    animation-name: runRight;
+    animation-delay: 17s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-out; 
+}
 
 /* Page 7*/
 
+.line11 {
+    font-size: 250%;
+}
+
+.word79 {
+    position:absolute;
+    left: 10%;
+    animation-name: turnLeft1;
+    animation-delay: none;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word80 {
+    position:absolute;
+    left: 14%;
+    animation-name: turnRight1;
+    animation-delay: 1s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out; 
+}
+
+.word81a {
+    font-family: "adorn-smooth-condensed-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    left: 38%;
+    animation-name: letterAppear1;
+    animation-delay: 2s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
+}
+
+.word81b {
+    position:absolute;
+    font-family: "adorn-smooth-condensed-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    left: 40%;
+    animation-name: letterAppear2;
+    animation-delay: 2.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
+}
+
+.word81c {
+    position:absolute;
+    font-family: "adorn-smooth-condensed-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    left: 42.3%;
+    animation-name: letterAppear3;
+    animation-delay: 3s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
+}
+
+.word81d {
+    position:absolute;
+    font-family: "adorn-smooth-condensed-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    left: 44%;
+    animation-name: letterAppear4;
+    animation-delay: 3.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
+}
+
+.word81e {
+    position:absolute;
+    font-family: "adorn-smooth-condensed-sans", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position: absolute;
+    left: 46%;
+    animation-name: letterAppear5;
+    animation-delay: 4s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
+}
+
+.word82 {
+    position:absolute;
+    left: 43.5%;
+    animation-name: turnLeft1;
+    animation-delay: 5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
+}
+
+.word83 {
+    position:absolute;
+    left: 34%;
+    animation-name: turnRight1;
+    animation-delay: 6s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
+}
+
+.word84a {
+    position:absolute;
+    left: 14%;
+    animation-name: letterEmerge1;
+    animation-delay: 7s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
+}
+
+.word84b {
+    position:absolute;
+    left: 14%;
+    animation-name: letterEmerge2;
+    animation-delay: 7.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
+}
+
+.word84c {
+    position:absolute;
+    left: 14%;
+    animation-name: letterEmerge3;
+    animation-delay: 8s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
+}
+
+.word85 {
+    font-family: "hello-bloomie-script", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position:absolute;
+    left: 15%;
+    animation-name: turnRight2;
+    animation-delay: 9s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
+
+}
+
+.line12 {
+    font-size: 250%;
+}
+
+.word86 {
+    position:absolute;
+    left: 37%;
+    animation-name: turnLeft3;
+    animation-delay: 11s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
+}
+
+.word87 {
+    position:absolute;
+    left: 30%;
+    animation-name: turnRight3;
+    animation-delay: 12s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
+}
+
+.word88 {
+    position:absolute;
+    left: 50%;
+    animation-name: turnLeft4;
+    animation-delay: 13s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
+}
+
+.word89 {
+    position:absolute;
+    left: 43.5%;
+    animation-name: turnRight3;
+    animation-delay: 14s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
+}
+
+.word90 {
+    font-family: "rockwell", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    position:absolute;
+    left: 72%;
+    animation-name: wordEmerge;
+    animation-delay: 15s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
+}
+
+.word91a {
+    position:absolute;
+    left: 82%;
+    animation-name: fontEmerge1;
+    animation-delay: 16s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
+}
+
+.word91b {
+    position:absolute;
+    left: 82%;
+    animation-name: fontEmerge2;
+    animation-delay: 16.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
+}
+
+.word91c {
+    position:absolute;
+    left: 82%;
+    animation-name: fontEmerge3;
+    animation-delay: 17s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
+}
+
+.word91d {
+    position:absolute;
+    left: 82%;
+    animation-name: fontEmerge4;
+    animation-delay: 17.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
+}
+
+.word91e {
+    position:absolute;
+    left: 82%;
+    animation-name: fontEmerge5;
+    animation-delay: 18s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
+}
+
+.word92 > a {
+    font-family: "hello-bloomie-script", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #003E5F;
+    text-decoration: none;
+    position:absolute;
+    left: 49%;
+    animation-name: turnLeft5;
+    animation-delay: 19s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-out;
+}
+
+.word93 > a {
+    font-family: "hello-bloomie-script", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #003E5F;
+    text-decoration: none;
+    position:absolute;
+    left: 60%;
+    animation-name: turnLeft6;
+    animation-delay: 19.5s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-out;
+}
 
 /* Page 8*/
 
+.Credit {
+    font-size: 250%;
+}
 
-/* Page 9*/
+.back > a {
+    text-decoration: none;
+    color: #435701;
+    position:absolute;
+    left: 40%;
+    animation-name: fontShow1;
+    animation-delay: none;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-out;
+}
 
+.contribute {
+    position:absolute;
+    left: 50%;
+    animation-name: fontShow2;
+    animation-delay: 1s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
+}
 
-/* Page 10*/
-
-
-
+.author {
+    position:absolute;
+    left: 43%;
+    animation-name: fontShow3;
+    animation-delay: 2s;
+    animation-direction: alternate;
+    animation-duration: 2s;
+    animation-fill-mode: forwards;
+    animation-iteration-count: once;
+    animation-timing-function: ease-out;
+}
 
 /* KEYFRAMES */
 
 /* Home */
+
 @keyframes Flickering {
     from {
         color:#003E5F
@@ -1127,6 +2330,7 @@ p > .word46 > a {
         color:#faed73
     }
 }
+
 
 /* Page 2 */
 
@@ -1286,6 +2490,7 @@ p > .word46 > a {
         transform: scale(200%);
     }
 }
+
 
 /* Page 3 */
 
@@ -1480,6 +2685,7 @@ p > .word46 > a {
     }
 }
 
+
 /* Page 4 */
 
 /* line 5 */
@@ -1503,7 +2709,7 @@ p > .word46 > a {
     to {
         margin-top: 20%;
         color: #d6a0ff;
-        transform: rotateX(360deg) scale(200%);
+        transform: rotateX(700deg) scale(200%);
     }
 }
 
@@ -1515,7 +2721,7 @@ p > .word46 > a {
     to {
         margin-top: 20%;
         color: #d6a0ff;
-        transform: rotateX(-360deg) scale(200%);
+        transform: rotateX(-700deg) scale(200%);
     }
 }
 
@@ -1624,5 +2830,692 @@ p > .word46 > a {
         margin-top: 27%;
         color: #e0a256;
         transform: scale(300%) rotateY(360deg);
+    }
+}
+
+
+/* Page 5 */
+
+/* line7 */
+
+@keyframes goDown1 {
+    from {
+        margin-top: 2%;
+        color: #003E5F;
+    }
+    to {
+        margin-top: 10%;
+        color: #faed73;
+    }
+}
+
+@keyframes goRight1 {
+    from {
+        margin-right: 80%;
+        margin-top: 10%;
+        color: #003E5F;
+    }
+    to {
+        margin-left: 3.5%;
+        margin-top: 10%;
+        color: #faed73;
+    }
+}
+
+@keyframes wordAppearDown1 {
+    from {
+        margin-top: 8.5%;
+        color: #003E5F;
+    }
+    to {
+        margin-top: 10%;
+        color: #ff7878;
+        transform: scaleX(250%) scale(150%);
+    }
+}
+
+@keyframes wordAppearUp1 {
+    from {
+        margin-top: 10%;
+        color: #003E5F;
+    }
+    to {
+        margin-top: 8.5%;
+        color: #ff7878;
+        transform: scaleX(250%) scale(150%);
+    }
+}
+
+@keyframes goLeft1 {
+    from {
+        margin-left: 60%;
+        margin-top: 16%;
+        color: #003E5F;
+    }
+    to {
+        margin-right: 5%;
+        margin-top: 16%;
+        color: #86e9f0;
+        transform: skewX(-30deg) scale(150%);
+    }
+}
+
+@keyframes goRight2 {
+    from {
+        margin-right: 80%;
+        margin-top: 16%;
+        color: #003E5F;
+    }
+    to {
+        margin-left: 5%;
+        margin-top: 16%;
+        color: #faed73;
+    }
+}
+
+@keyframes wordAppear1 {
+    from {
+        margin-top: 16%;
+        color: #003E5F;
+    }
+    to {
+        margin-top: 16%;
+        color: #f3f3f3;
+        transform: scaleY(150%) scale(150%) 
+        rotateY(360deg);
+    }
+}
+
+/* line8 */
+
+@keyframes goLeft2{
+    from {
+        margin-left: 40%;
+        margin-top: 20%;
+        color: #003E5F;
+    }
+    to {
+        margin-right: 20%;
+        margin-top: 20%;
+        color:#faed73;
+    }
+}
+
+@keyframes goRight3 {
+    from {
+        margin-right: 40%;
+        margin-top: 20%;
+        color: #003E5F;
+    }
+    to {
+        margin-left: 5%;
+        margin-top: 20%;
+        color:#faed73;
+}
+}
+
+@keyframes goUp1 {
+    from {
+        margin-top: 40%;
+        color: #003E5F;
+    }
+    to {
+        margin-top: 28%;
+        color: #f3f3f3;
+        transform: scale(250%) 
+    }
+}
+
+@keyframes goDown2 {
+    from {
+        margin-top: 20%;
+        color: #003E5F;
+    }
+    to {
+        margin-top: 28%;
+        color: #faed73;
+    }
+}
+
+@keyframes goRight4 {
+    from {
+        margin-right: 40%;
+        margin-top: 28%;
+        color: #003E5F;
+    }
+    to {
+        margin-left: 5%;
+        margin-top: 28%;
+        color:#9728c7;
+        transform: skew(30deg) scale(150%);
+}
+}
+
+@keyframes goRight5 {
+    from {
+        margin-right: 40%;
+        margin-top: 27%;
+        color: #003E5F;
+    }
+    to {
+        margin-left: 5%;
+        margin-top: 27%;
+        color:#dc8afe;
+        transform: skew(30deg) scale(180%);
+}
+}
+
+@keyframes goRight6 {
+    from {
+        margin-right: 40%;
+        margin-top: 26%;
+        color: #003E5F;
+    }
+    to {
+        margin-left: 5%;
+        margin-top: 26%;
+        color:#e9c7f7;
+        transform: skew(30deg) scale(200%);
+}
+}
+
+@keyframes wordAppearDown2 {
+    from {
+        margin-top: 27%;
+        color: #003E5F;
+    }
+    to {
+        margin-top: 38%;
+        color: #ffbb7c;
+        transform: scaleY(150%) scale(180%);
+    }
+}
+
+@keyframes wordAppearUp2 {
+    from {
+        margin-top: 40%;
+        color: #003E5F;
+    }
+    to {
+        margin-top: 36%;
+        color: #ffbb7c;
+        transform: scaleY(150%) scale(180%);
+    }
+}
+
+@keyframes scaleFontAppear3 {
+    from {
+        margin-top: 38%;
+        color:#003E5F;
+    }
+    to {
+        margin-top: 38%;
+        color: #86f175;
+        transform: scale(300%) rotateY(360deg);
+    }
+}
+
+
+/* Page 6 */
+
+/* line9 */
+
+@keyframes runDown1 {
+    from {
+        margin-top: 5%;
+        color: #435701;
+    }
+    to {
+        margin-top: 10%;
+        color: #faed73;
+    }
+}
+
+@keyframes runDown2 {
+    from {
+        margin-top: 5%;
+        color: #435701;
+    }
+    to {
+        margin-top: 14%;
+        color: #faed73;
+    }
+}
+
+@keyframes runDown3 {
+    from {
+        margin-top: 5%;
+        color: #435701;
+    }
+    to {
+        margin-top: 20%;
+        color: #9bd4ff;
+        transform: scale(200%);
+    }
+}
+
+@keyframes runDown4 {
+    from {
+        margin-top: 5%;
+        color: #435701;
+    }
+    to {
+        margin-top: 25%;
+        color: #fd8181;
+        transform: rotateX(700deg);
+    }
+}
+
+@keyframes runDown5 {
+    from {
+        margin-top: 5%;
+        color: #435701;
+    }
+    to {
+        margin-top: 29%;
+        color: #faed73;
+    }
+}
+
+@keyframes runDown6 {
+    from {
+        margin-top: 5%;
+        color: #435701;
+    }
+    to {
+        margin-top: 37%;
+        color:#ffffff;
+        transform: rotate(-360deg) scale(250%);
+    }
+}
+
+/* line10 */
+
+@keyframes runUp1 {
+    from {
+        margin-top: 50%;
+        color: #435701;
+    }
+    to {
+        margin-top: 7%;
+        color: #faed73;
+    }
+}
+
+@keyframes runUp2 {
+    from {
+        margin-top: 50%;
+        color: #435701;
+    }
+    to {
+        margin-top: 11%;
+        color: #ffa26f;
+        transform: rotateY(700deg);
+    }
+}
+
+@keyframes runUp3 {
+    from {
+        margin-top: 50%;
+        color: #435701;
+    }
+    to {
+        margin-top: 15%;
+        color: #faed73;
+    }
+}
+
+@keyframes runUp4 {
+    from {
+        margin-top: 50%;
+        color: #435701;
+    }
+    to {
+        margin-top: 21%;
+        color: #000000;
+        transform: rotate(360deg) scale(250%);
+    }
+}
+
+@keyframes runUp5 {
+    from {
+        margin-top: 50%;
+        color: #435701;
+    }
+    to {
+        margin-top: 26%;
+        color: #faed73;
+    }
+}
+
+@keyframes runRight {
+    from {
+        margin-top: 33%;
+        color: #435701;
+    }
+    to {
+        margin-top: 33%;
+        color: #dba2ff;
+        transform: scale(230%) translateX(40%);
+    }
+}
+
+
+/* Page 7 */
+
+/* line11 */
+
+@keyframes turnLeft1 {
+    from {
+        margin-left: 40%;
+        margin-top: 10%;
+        color: #003E5F;
+    }
+    to {
+        margin-left: 5%;
+        margin-top: 10%;
+        color: #faed73;
+    }
+}
+
+@keyframes turnRight1 {
+    from {
+        margin-right: 60%;
+        margin-top: 10%;
+        color: #003E5F;
+    }
+    to {
+        margin-left: 19%;
+        margin-top: 10%;
+        color: #faed73;
+    }
+}
+
+@keyframes letterAppear1 {
+    from {
+        margin-top: 10%;
+        color: #003E5F;
+    }
+    to {
+        margin-top: 10%;
+        color: #d8731b;
+        transform: scale(120%);
+    }
+}
+
+@keyframes letterAppear2 {
+    from {
+        margin-top: 9.7%;
+        color: #003E5F;
+    }
+    to {
+        margin-top: 9.7%;
+        color: #f89946;
+        transform: scale(140%);
+    }
+}
+
+@keyframes letterAppear3 {
+    from {
+        margin-top: 9.5%;
+        color: #003E5F;
+    }
+    to {
+        margin-top: 9.5%;
+        color: #ffb879;
+        transform: scale(160%);
+    }
+}
+
+@keyframes letterAppear4 {
+    from {
+        margin-top: 9.3%;
+        color: #003E5F;
+    }
+    to {
+        margin-top: 9.3%;
+        color: #ffcfa6;
+        transform: scale(180%);
+    }
+}
+
+@keyframes letterAppear5 {
+    from {
+        margin-top: 9.1%;
+        color: #003E5F;
+    }
+    to {
+        margin-top: 9.1%;
+        color: #ffebda;
+        transform: scale(200%);
+    }
+}
+
+@keyframes letterEmerge1 {
+    from {
+        margin-top: 13%;
+        color: #003E5F;
+    }
+    to {
+        margin-top: 13%;
+        color: #b2e9ff;
+        transform: rotateX(360deg) scale(200%);
+    }
+}
+
+@keyframes letterEmerge2 {
+    from {
+        margin-top: 16.5%;
+        color: #003E5F;
+    }
+    to {
+        margin-top: 16.5%;
+        color: #b2e9ff;
+        transform: rotateY(360deg) scale(200%);
+    }
+}
+
+@keyframes letterEmerge3 {
+    from {
+        margin-top: 20%;
+        color: #003E5F;
+    }
+    to {
+        margin-top: 20%;
+        color: #b2e9ff;
+        transform: rotateX(360deg) scale(200%) ;
+    }
+}
+
+@keyframes turnRight2 {
+    from {
+        margin-right: 60%;
+        margin-top: 19%;
+        color: #003E5F;
+    }
+    to {
+        margin-left: 14%;
+        margin-top: 19%;
+        color: #f3b7ff;
+        transform: scale(250%) skew(40deg);
+    }
+}
+
+/* line12 */
+
+@keyframes turnLeft3 {
+    from {
+        margin-left: 40%;
+        margin-top: 38%;
+        color: #003E5F;
+    }
+    to {
+        margin-left: 5%;
+        margin-top: 38%;
+        color: #faed73;
+    }
+}
+
+@keyframes turnRight3 {
+    from {
+        margin-right: 60%;
+        margin-top: 38%;
+        color: #003E5F;
+    }
+    to {
+        margin-left: 19%;
+        margin-top: 38%;
+        color: #faed73;
+    }
+}
+
+@keyframes turnLeft4 {
+    from {
+        margin-left: 40%;
+        margin-top: 38%;
+        color: #003E5F;
+    }
+    to {
+        margin-left: 5%;
+        margin-top: 38%;
+        color: #ff8f8f;
+        transform: skew(-30deg);
+    }
+}
+
+@keyframes wordEmerge {
+    from {
+        margin-top: 38%;
+        color: #003E5F;
+    }
+    to {
+        margin-top: 38%;
+        color: #fafafa;
+        transform: scale(250%);
+    }
+}
+
+@keyframes fontEmerge1 {
+    from {
+        margin-top: 15%;
+        color: #003E5F;
+    }
+    to {
+        margin-top: 15%;
+        color: #b2e9ff;
+        transform: rotateY(-360deg) scale(200%);
+    }
+}
+
+@keyframes fontEmerge2 {
+    from {
+        margin-top: 18.5%;
+        color: #003E5F;
+    }
+    to {
+        margin-top: 18.5%;
+        color: #b2e9ff;
+        transform: rotateX(-360deg) scale(200%);
+    }
+}
+
+@keyframes fontEmerge3 {
+    from {
+        margin-top: 22.5%;
+        color: #003E5F;
+    }
+    to {
+        margin-top: 22.5%;
+        color: #b2e9ff;
+        transform: rotateY(-360deg) scale(200%);
+    }
+}
+
+@keyframes fontEmerge4 {
+    from {
+        margin-top: 27.5%;
+        color: #003E5F;
+    }
+    to {
+        margin-top: 27.5%;
+        color: #b2e9ff;
+        transform: rotateX(-360deg) scale(200%);
+    }
+}
+
+@keyframes fontEmerge5 {
+    from {
+        margin-top: 31%;
+        color: #003E5F;
+    }
+    to {
+        margin-top: 31%;
+        color: #b2e9ff;
+        transform: rotateY(-360deg) scale(200%);
+    }
+}
+
+@keyframes turnLeft5 {
+    from {
+        margin-left: 40%;
+        margin-top: 27%;
+        color: #003E5F;
+    }
+    to {
+        margin-left: 5%;
+        margin-top: 27%;
+        color: #abff91;
+        transform: scale(250%) skew(-30deg);
+    }
+}
+
+@keyframes turnLeft6 {
+    from {
+        margin-left: 30%;
+        margin-top: 27%;
+        color: #003E5F;
+    }
+    to {
+        margin-left: 5%;
+        margin-top: 27%;
+        color: #abff91;
+        transform: scale(250%) skew(-30deg);
+    }
+}
+
+
+/* Page 8 */
+
+@keyframes fontShow1 {
+    from {
+        margin-top: 20%;
+        color: #435701;
+    }
+    to {
+        margin-top: 20%;
+        color: #faed73;
+    }
+}
+
+@keyframes fontShow2 {
+    from {
+        margin-top: 25%;
+        color: #435701;
+    }
+    to {
+        margin-top: 25%;
+        color: #faed73;
+    }
+}
+
+@keyframes fontShow3 {
+    from {
+        margin-top: 31%;
+        color: #435701;
+    }
+    to {
+        margin-top: 31%;
+        color: #faed73;
+        transform: scale(150%);
     }
 }
