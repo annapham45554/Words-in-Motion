@@ -85,7 +85,7 @@ p {
     animation-name: rightToLeft1;
     animation-delay: 1s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -100,7 +100,7 @@ p {
     animation-name: scaleFont1;
     animation-delay: 2s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -112,7 +112,7 @@ p {
     animation-name: rightToLeft1;
     animation-delay: 3s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -124,7 +124,7 @@ p {
     animation-name: rightToLeft1;
     animation-delay: 4s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -136,7 +136,7 @@ p {
     animation-name: fontChange1;
     animation-delay: 5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -148,7 +148,7 @@ p {
     animation-name: rightToLeft1;
     animation-delay: 6s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -160,7 +160,7 @@ p {
     animation-name: Appear1;
     animation-delay: 7s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -175,7 +175,7 @@ p {
     animation-name: fontChangeAppear1a;
     animation-delay: 8s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -187,7 +187,7 @@ p {
     animation-name: Appear1;
     animation-delay: 10s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -202,7 +202,7 @@ p {
     animation-name: fontChangeAppear1b;
     animation-delay: 11s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -219,7 +219,7 @@ p {
     animation-name: leftToRight2;
     animation-delay: 13s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -231,7 +231,7 @@ p {
     animation-name: leftToRight2;
     animation-delay: 14s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -246,7 +246,7 @@ p {
     animation-name: scaleFont2;
     animation-delay: 15s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -257,7 +257,7 @@ p {
     animation-name: leftToRight2;
     animation-delay: 16s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -268,7 +268,7 @@ p {
     animation-name: fontChange2;
     animation-delay: 17s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -279,7 +279,7 @@ p {
     animation-name: leftToRight2;
     animation-delay: 18s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -290,7 +290,7 @@ p {
     animation-name: Appear2;
     animation-delay: 20s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -304,7 +304,7 @@ p {
     animation-name: fontChangeAppear2a;
     animation-delay: 21s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -315,7 +315,7 @@ p {
     animation-name: Appear2;
     animation-delay: 22s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -326,7 +326,7 @@ p {
     animation-name: Appear2;
     animation-delay: 23s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -342,7 +342,7 @@ p {
     animation-name: fontChangeAppear2b;
     animation-delay: 24s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: infinite;
     animation-timing-function: ease-out;
@@ -372,7 +372,7 @@ p {
     animation-name: upToDown1a;
     animation-delay: 0.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -384,7 +384,7 @@ p {
     animation-name: upToDown1a;
     animation-delay: 2s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -399,7 +399,7 @@ p {
     animation-name: scaleFont3a;
     animation-delay: 3s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -411,7 +411,7 @@ p {
     animation-name: upToDown1a;
     animation-delay: 4s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -423,7 +423,7 @@ p {
     animation-name: Windy;
     animation-delay: 5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -435,7 +435,7 @@ p {
     animation-name: Windy;
     animation-delay: 5.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -447,7 +447,7 @@ p {
     animation-name: upToDown1b;
     animation-delay: 6s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -462,7 +462,7 @@ p {
     animation-name: scaleFont3b;
     animation-delay: 7s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -477,7 +477,7 @@ p {
     animation-name: Spreadingright1;
     animation-delay: 8s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -492,7 +492,7 @@ p {
     animation-name: Spreadingright1;
     animation-delay: 9s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -507,7 +507,7 @@ p {
     animation-name: Spreadingright1;
     animation-delay: 9.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -522,7 +522,7 @@ p {
     animation-name: Spreadingleft1;
     animation-delay: 10s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -537,7 +537,7 @@ p {
     animation-name: Spreadingleft1;
     animation-delay: 10.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -552,7 +552,7 @@ p {
     animation-name: Spreadingleft1;
     animation-delay: 11s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -568,7 +568,7 @@ p {
     animation-name: downToUp1a;
     animation-delay: 13.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -580,7 +580,7 @@ p {
     animation-name: downToUp1a;
     animation-delay: 14s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -592,7 +592,7 @@ p {
     animation-name: downToUp1a;
     animation-delay: 15s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -607,7 +607,7 @@ p {
     animation-name: scaleFont4a;
     animation-delay: 16s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -619,7 +619,7 @@ p {
     animation-name: downToUp1b;
     animation-delay: 17s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -631,7 +631,7 @@ p {
     animation-name: downToUp1a;
     animation-delay: 18s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -646,7 +646,7 @@ p {
     animation-name: scaleFont4b;
     animation-delay: 19s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -658,7 +658,7 @@ p {
     animation-name: downToUp1a;
     animation-delay: 20s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -670,7 +670,7 @@ p {
     animation-name: Spreadingleft2;
     animation-delay: 21s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -682,7 +682,7 @@ p {
     animation-name: Spreadingleft2;
     animation-delay: 21.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -694,7 +694,7 @@ p {
     animation-name: Spreadingleft2;
     animation-delay: 22s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -706,7 +706,7 @@ p {
     animation-name: Spreadingleft2;
     animation-delay: 22.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -718,7 +718,7 @@ p {
     animation-name: Spreadingright2;
     animation-delay: 23s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -730,7 +730,7 @@ p {
     animation-name: Spreadingright2;
     animation-delay: 23.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -742,7 +742,7 @@ p {
     animation-name: Spreadingright2;
     animation-delay: 24s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -754,7 +754,7 @@ p {
     animation-name: Spreadingright2;
     animation-delay: 24.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -766,7 +766,7 @@ p {
     animation-name: Spreadingright2;
     animation-delay: 25s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -778,7 +778,7 @@ p {
     animation-name: downToUp1c;
     animation-delay: 26.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -790,7 +790,7 @@ p {
     animation-name: downToUp1c;
     animation-delay: 27s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -808,7 +808,7 @@ p > .word46 > a {
     animation-name: fontChangeAppear3;
     animation-delay: 28s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: infinite;
     animation-timing-function: ease-out;
@@ -826,7 +826,7 @@ p > .word46 > a {
     animation-name: upToDown2a;
     animation-delay: none;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -841,7 +841,7 @@ p > .word46 > a {
     animation-name: downToUp2a;
     animation-delay: 1s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -856,7 +856,7 @@ p > .word46 > a {
     animation-name: upToDown2b;
     animation-delay: 1.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -872,7 +872,7 @@ p > .word46 > a {
     animation-name: downToUp2a;
     animation-delay: 2s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -888,7 +888,7 @@ p > .word46 > a {
     animation-name: upToDown2b;
     animation-delay: 2.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -904,7 +904,7 @@ p > .word46 > a {
     animation-name: downToUp2a;
     animation-delay: 3s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -920,7 +920,7 @@ p > .word46 > a {
     animation-name: upToDown2b;
     animation-delay: 3.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -936,7 +936,7 @@ p > .word46 > a {
     animation-name: downToUp2a;
     animation-delay: 4s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -952,7 +952,7 @@ p > .word46 > a {
     animation-name: upToDown2b;
     animation-delay: 4.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -968,7 +968,7 @@ p > .word46 > a {
     animation-name: downToUp2a;
     animation-delay: 5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -980,7 +980,7 @@ p > .word46 > a {
     animation-name: upToDown2a;
     animation-delay: 6s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -996,7 +996,7 @@ p > .word46 > a {
     animation-name: scaleFontAppear1;
     animation-delay: 7s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -1012,7 +1012,7 @@ p > .word46 > a {
     animation-name: downToUp2b;
     animation-delay: 9s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -1024,7 +1024,7 @@ p > .word46 > a {
     animation-name: upToDown2c;
     animation-delay: 10s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -1036,7 +1036,7 @@ p > .word46 > a {
     animation-name: moveRight1;
     animation-delay: 11s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -1048,7 +1048,7 @@ p > .word46 > a {
     animation-name: moveRight2;
     animation-delay: 11.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -1060,7 +1060,7 @@ p > .word46 > a {
     animation-name: moveLeft1;
     animation-delay: 12s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -1072,7 +1072,7 @@ p > .word46 > a {
     animation-name: moveLeft2;
     animation-delay: 12.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -1089,7 +1089,7 @@ p > .word46 > a {
     animation-name: scaleFontAppear2;
     animation-delay: 13.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: infinite;
     animation-timing-function: ease-out;
@@ -1108,7 +1108,7 @@ p > .word46 > a {
     animation-name: goDown1;
     animation-delay: none;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;   
@@ -1120,7 +1120,7 @@ p > .word46 > a {
     animation-name: goRight1;
     animation-delay: none;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1135,7 +1135,7 @@ p > .word46 > a {
     animation-name: wordAppearDown1;
     animation-delay: 1s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1150,7 +1150,7 @@ p > .word46 > a {
     animation-name: wordAppearUp1;
     animation-delay: 1.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1165,7 +1165,7 @@ p > .word46 > a {
     animation-name: wordAppearDown1;
     animation-delay: 2s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;   
@@ -1180,7 +1180,7 @@ p > .word46 > a {
     animation-name: wordAppearUp1;
     animation-delay: 2.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;   
@@ -1195,7 +1195,7 @@ p > .word46 > a {
     animation-name: wordAppearDown1;
     animation-delay: 3s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;     
@@ -1210,7 +1210,7 @@ p > .word46 > a {
     animation-name: wordAppearUp1;
     animation-delay: 3.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;     
@@ -1225,7 +1225,7 @@ p > .word46 > a {
     animation-name: wordAppearDown1;
     animation-delay: 4s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;      
@@ -1240,7 +1240,7 @@ p > .word46 > a {
     animation-name: wordAppearUp1;
     animation-delay: 4.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;     
@@ -1252,7 +1252,7 @@ p > .word46 > a {
     animation-name: goLeft1;
     animation-delay: 5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1264,7 +1264,7 @@ p > .word46 > a {
     animation-name: goRight2;
     animation-delay: 5.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1279,7 +1279,7 @@ p > .word46 > a {
     animation-name: wordAppear1;
     animation-delay: 6s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1294,7 +1294,7 @@ p > .word46 > a {
     animation-name: wordAppear1;
     animation-delay: 6.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1309,7 +1309,7 @@ p > .word46 > a {
     animation-name: wordAppear1;
     animation-delay: 7s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1324,7 +1324,7 @@ p > .word46 > a {
     animation-name: wordAppear1;
     animation-delay: 7.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1339,7 +1339,7 @@ p > .word46 > a {
     animation-name: wordAppear1;
     animation-delay: 8s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1354,7 +1354,7 @@ p > .word46 > a {
     animation-name: wordAppear1;
     animation-delay: 8.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1369,7 +1369,7 @@ p > .word46 > a {
     animation-name: wordAppear1;
     animation-delay: 9s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1384,7 +1384,7 @@ p > .word46 > a {
     animation-name: wordAppear1;
     animation-delay: 9.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1399,7 +1399,7 @@ p > .word46 > a {
     animation-name: wordAppear1;
     animation-delay: 10s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1414,7 +1414,7 @@ p > .word46 > a {
     animation-name: wordAppear1;
     animation-delay: 10.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1430,7 +1430,7 @@ p > .word46 > a {
     animation-name: goLeft2;
     animation-delay: 12s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1442,7 +1442,7 @@ p > .word46 > a {
     animation-name: goRight3;
     animation-delay: 12.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1457,7 +1457,7 @@ p > .word46 > a {
     animation-name: goUp1;
     animation-delay: 13s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;   
@@ -1469,7 +1469,7 @@ p > .word46 > a {
     animation-name: goDown2;
     animation-delay: 14s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;  
@@ -1481,7 +1481,7 @@ p > .word46 > a {
     animation-name: goRight4;
     animation-delay: 15s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;  
@@ -1493,7 +1493,7 @@ p > .word46 > a {
     animation-name: goRight5;
     animation-delay: 15.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;  
@@ -1505,7 +1505,7 @@ p > .word46 > a {
     animation-name: goRight6;
     animation-delay: 16s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;  
@@ -1520,7 +1520,7 @@ p > .word46 > a {
     animation-name: wordAppearDown2;
     animation-delay: 17s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;  
@@ -1535,7 +1535,7 @@ p > .word46 > a {
     animation-name: wordAppearUp2;
     animation-delay: 17.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;  
@@ -1550,7 +1550,7 @@ p > .word46 > a {
     animation-name: wordAppearDown2;
     animation-delay: 18s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;   
@@ -1565,7 +1565,7 @@ p > .word46 > a {
     animation-name: wordAppearUp2;
     animation-delay: 18.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;   
@@ -1582,7 +1582,7 @@ p > .word46 > a {
     animation-name: scaleFontAppear3;
     animation-delay: 19s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: infinite;
     animation-timing-function: ease-out; 
@@ -1601,7 +1601,7 @@ p > .word46 > a {
     animation-name: runDown1;
     animation-delay: none;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1613,7 +1613,7 @@ p > .word46 > a {
     animation-name: runDown2;
     animation-delay: 1s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -1628,7 +1628,7 @@ p > .word46 > a {
     animation-name: runDown3;
     animation-delay: 2s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -1640,7 +1640,7 @@ p > .word46 > a {
     animation-name: runDown4;
     animation-delay: 3s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -1652,7 +1652,7 @@ p > .word46 > a {
     animation-name: runDown5;
     animation-delay: 4s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -1667,7 +1667,7 @@ p > .word46 > a {
     animation-name: runDown6;
     animation-delay: 5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;   
@@ -1682,7 +1682,7 @@ p > .word46 > a {
     animation-name: runDown6;
     animation-delay: 5.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1697,7 +1697,7 @@ p > .word46 > a {
     animation-name: runDown6;
     animation-delay: 6s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1712,7 +1712,7 @@ p > .word46 > a {
     animation-name: runDown6;
     animation-delay: 6.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1727,7 +1727,7 @@ p > .word46 > a {
     animation-name: runDown6;
     animation-delay: 7s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1743,7 +1743,7 @@ p > .word46 > a {
     animation-name: runUp1;
     animation-delay: 9s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1755,7 +1755,7 @@ p > .word46 > a {
     animation-name: runUp2;
     animation-delay: 10s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1767,7 +1767,7 @@ p > .word46 > a {
     animation-name: runUp3;
     animation-delay: 11s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1782,7 +1782,7 @@ p > .word46 > a {
     animation-name: runUp4;
     animation-delay: 12s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1797,7 +1797,7 @@ p > .word46 > a {
     animation-name: runUp4;
     animation-delay: 12.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1813,7 +1813,7 @@ p > .word46 > a {
     animation-name: runUp4;
     animation-delay: 13s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1829,7 +1829,7 @@ p > .word46 > a {
     animation-name: runUp4;
     animation-delay: 13.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1845,7 +1845,7 @@ p > .word46 > a {
     animation-name: runUp4;
     animation-delay: 14s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1861,7 +1861,7 @@ p > .word46 > a {
     animation-name: runUp4;
     animation-delay: 14.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1877,7 +1877,7 @@ p > .word46 > a {
     animation-name: runUp4;
     animation-delay: 15s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1893,7 +1893,7 @@ p > .word46 > a {
     animation-name: runUp4;
     animation-delay: 15.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1905,7 +1905,7 @@ p > .word46 > a {
     animation-name: runUp5;
     animation-delay: 16s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1922,7 +1922,7 @@ p > .word46 > a {
     animation-name: runRight;
     animation-delay: 17s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: infinite;
     animation-timing-function: ease-out; 
@@ -1940,7 +1940,7 @@ p > .word46 > a {
     animation-name: turnLeft1;
     animation-delay: none;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1952,7 +1952,7 @@ p > .word46 > a {
     animation-name: turnRight1;
     animation-delay: 1s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out; 
@@ -1967,7 +1967,7 @@ p > .word46 > a {
     animation-name: letterAppear1;
     animation-delay: 2s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -1983,7 +1983,7 @@ p > .word46 > a {
     animation-name: letterAppear2;
     animation-delay: 2.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -1999,7 +1999,7 @@ p > .word46 > a {
     animation-name: letterAppear3;
     animation-delay: 3s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -2015,7 +2015,7 @@ p > .word46 > a {
     animation-name: letterAppear4;
     animation-delay: 3.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -2031,7 +2031,7 @@ p > .word46 > a {
     animation-name: letterAppear5;
     animation-delay: 4s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -2043,7 +2043,7 @@ p > .word46 > a {
     animation-name: turnLeft1;
     animation-delay: 5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -2055,7 +2055,7 @@ p > .word46 > a {
     animation-name: turnRight1;
     animation-delay: 6s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -2067,7 +2067,7 @@ p > .word46 > a {
     animation-name: letterEmerge1;
     animation-delay: 7s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -2079,7 +2079,7 @@ p > .word46 > a {
     animation-name: letterEmerge2;
     animation-delay: 7.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -2091,7 +2091,7 @@ p > .word46 > a {
     animation-name: letterEmerge3;
     animation-delay: 8s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -2106,7 +2106,7 @@ p > .word46 > a {
     animation-name: turnRight2;
     animation-delay: 9s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -2123,7 +2123,7 @@ p > .word46 > a {
     animation-name: turnLeft3;
     animation-delay: 11s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -2135,7 +2135,7 @@ p > .word46 > a {
     animation-name: turnRight3;
     animation-delay: 12s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -2147,7 +2147,7 @@ p > .word46 > a {
     animation-name: turnLeft4;
     animation-delay: 13s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -2159,7 +2159,7 @@ p > .word46 > a {
     animation-name: turnRight3;
     animation-delay: 14s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -2174,7 +2174,7 @@ p > .word46 > a {
     animation-name: wordEmerge;
     animation-delay: 15s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -2186,7 +2186,7 @@ p > .word46 > a {
     animation-name: fontEmerge1;
     animation-delay: 16s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -2198,7 +2198,7 @@ p > .word46 > a {
     animation-name: fontEmerge2;
     animation-delay: 16.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -2210,7 +2210,7 @@ p > .word46 > a {
     animation-name: fontEmerge3;
     animation-delay: 17s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -2222,7 +2222,7 @@ p > .word46 > a {
     animation-name: fontEmerge4;
     animation-delay: 17.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -2234,7 +2234,7 @@ p > .word46 > a {
     animation-name: fontEmerge5;
     animation-delay: 18s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -2249,7 +2249,7 @@ p > .word46 > a {
     animation-name: turnLeft5;
     animation-delay: 19s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -2266,7 +2266,7 @@ p > .word46 > a {
     animation-name: turnLeft6;
     animation-delay: 19.5s;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1s;
     animation-fill-mode: forwards;
     animation-iteration-count: infinite;
     animation-timing-function: ease-out;
