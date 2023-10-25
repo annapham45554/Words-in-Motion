@@ -43,7 +43,7 @@ p {
     animation-name: Flickering;
     animation-delay: none;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1.5s;
     animation-fill-mode: forwards;
     animation-iteration-count: infinite;
     animation-timing-function: ease-out;
@@ -175,7 +175,7 @@ p {
     animation-name: fontChangeAppear1a;
     animation-delay: 8s;
     animation-direction: alternate;
-    animation-duration: 1s;
+    animation-duration: 1.5s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -304,7 +304,7 @@ p {
     animation-name: fontChangeAppear2a;
     animation-delay: 21s;
     animation-direction: alternate;
-    animation-duration: 1s;
+    animation-duration: 1.5s;
     animation-fill-mode: forwards;
     animation-iteration-count: once;
     animation-timing-function: ease-out;
@@ -342,7 +342,7 @@ p {
     animation-name: fontChangeAppear2b;
     animation-delay: 24s;
     animation-direction: alternate;
-    animation-duration: 1s;
+    animation-duration: 1.5s;
     animation-fill-mode: forwards;
     animation-iteration-count: infinite;
     animation-timing-function: ease-out;
@@ -490,7 +490,7 @@ p {
     position:absolute;
     left: 22%;
     animation-name: Spreadingright1;
-    animation-delay: 9s;
+    animation-delay: 8.5s;
     animation-direction: alternate;
     animation-duration: 1s;
     animation-fill-mode: forwards;
@@ -505,7 +505,7 @@ p {
     position:absolute;
     left: 27%;
     animation-name: Spreadingright1;
-    animation-delay: 9.5s;
+    animation-delay: 9s;
     animation-direction: alternate;
     animation-duration: 1s;
     animation-fill-mode: forwards;
@@ -520,7 +520,7 @@ p {
     position:absolute;
     left: 45%;
     animation-name: Spreadingleft1;
-    animation-delay: 10s;
+    animation-delay: 9.5s;
     animation-direction: alternate;
     animation-duration: 1s;
     animation-fill-mode: forwards;
@@ -535,7 +535,7 @@ p {
     position:absolute;
     left: 49.5%;
     animation-name: Spreadingleft1;
-    animation-delay: 10.5s;
+    animation-delay: 10s;
     animation-direction: alternate;
     animation-duration: 1s;
     animation-fill-mode: forwards;
@@ -550,7 +550,7 @@ p {
     position:absolute;
     left: 54.8%;
     animation-name: Spreadingleft1;
-    animation-delay: 11s;
+    animation-delay: 10.5s;
     animation-direction: alternate;
     animation-duration: 1s;
     animation-fill-mode: forwards;
@@ -566,7 +566,7 @@ p {
     position:absolute;
     left: 10%;
     animation-name: downToUp1a;
-    animation-delay: 13.5s;
+    animation-delay: 12s;
     animation-direction: alternate;
     animation-duration: 1s;
     animation-fill-mode: forwards;
@@ -578,7 +578,7 @@ p {
     position:absolute;
     left: 14%;
     animation-name: downToUp1a;
-    animation-delay: 14s;
+    animation-delay: 13s;
     animation-direction: alternate;
     animation-duration: 1s;
     animation-fill-mode: forwards;
@@ -590,7 +590,7 @@ p {
     position:absolute;
     left: 20.5%;
     animation-name: downToUp1a;
-    animation-delay: 15s;
+    animation-delay: 14s;
     animation-direction: alternate;
     animation-duration: 1s;
     animation-fill-mode: forwards;
@@ -605,7 +605,7 @@ p {
     position:absolute;
     left: 30%;
     animation-name: scaleFont4a;
-    animation-delay: 16s;
+    animation-delay: 15s;
     animation-direction: alternate;
     animation-duration: 1s;
     animation-fill-mode: forwards;
@@ -617,7 +617,7 @@ p {
     position:absolute;
     left: 42%;
     animation-name: downToUp1b;
-    animation-delay: 17s;
+    animation-delay: 16s;
     animation-direction: alternate;
     animation-duration: 1s;
     animation-fill-mode: forwards;
@@ -629,7 +629,7 @@ p {
     position:absolute;
     left: 52%;
     animation-name: downToUp1a;
-    animation-delay: 18s;
+    animation-delay: 17s;
     animation-direction: alternate;
     animation-duration: 1s;
     animation-fill-mode: forwards;
@@ -644,7 +644,7 @@ p {
     position:absolute;
     left: 61.5%;
     animation-name: scaleFont4b;
-    animation-delay: 19s;
+    animation-delay: 18s;
     animation-direction: alternate;
     animation-duration: 1s;
     animation-fill-mode: forwards;
@@ -656,7 +656,7 @@ p {
     position:absolute;
     left: 75.5%;
     animation-name: downToUp1a;
-    animation-delay: 20s;
+    animation-delay: 19s;
     animation-direction: alternate;
     animation-duration: 1s;
     animation-fill-mode: forwards;
@@ -668,7 +668,7 @@ p {
     position:absolute;
     left: 79%;
     animation-name: Spreadingleft2;
-    animation-delay: 21s;
+    animation-delay: 20s;
     animation-direction: alternate;
     animation-duration: 1s;
     animation-fill-mode: forwards;
@@ -680,7 +680,7 @@ p {
     position:absolute;
     left: 81%;
     animation-name: Spreadingleft2;
-    animation-delay: 21.5s;
+    animation-delay: 20.5s;
     animation-direction: alternate;
     animation-duration: 1s;
     animation-fill-mode: forwards;
@@ -692,7 +692,7 @@ p {
     position:absolute;
     left: 83%;
     animation-name: Spreadingleft2;
-    animation-delay: 22s;
+    animation-delay: 21s;
     animation-direction: alternate;
     animation-duration: 1s;
     animation-fill-mode: forwards;
@@ -704,7 +704,7 @@ p {
     position:absolute;
     left: 85%;
     animation-name: Spreadingleft2;
-    animation-delay: 22.5s;
+    animation-delay: 21.5s;
     animation-direction: alternate;
     animation-duration: 1s;
     animation-fill-mode: forwards;
@@ -716,7 +716,7 @@ p {
     position:absolute;
     left: 10%;
     animation-name: Spreadingright2;
-    animation-delay: 23s;
+    animation-delay: 22s;
     animation-direction: alternate;
     animation-duration: 1s;
     animation-fill-mode: forwards;
@@ -728,7 +728,7 @@ p {
     position:absolute;
     left: 12%;
     animation-name: Spreadingright2;
-    animation-delay: 23.5s;
+    animation-delay: 22.5s;
     animation-direction: alternate;
     animation-duration: 1s;
     animation-fill-mode: forwards;
@@ -740,7 +740,7 @@ p {
     position:absolute;
     left: 14%;
     animation-name: Spreadingright2;
-    animation-delay: 24s;
+    animation-delay: 23s;
     animation-direction: alternate;
     animation-duration: 1s;
     animation-fill-mode: forwards;
@@ -752,7 +752,7 @@ p {
     position:absolute;
     left: 16%;
     animation-name: Spreadingright2;
-    animation-delay: 24.5s;
+    animation-delay: 23.5s;
     animation-direction: alternate;
     animation-duration: 1s;
     animation-fill-mode: forwards;
@@ -764,7 +764,7 @@ p {
     position:absolute;
     left: 18%;
     animation-name: Spreadingright2;
-    animation-delay: 25s;
+    animation-delay: 24s;
     animation-direction: alternate;
     animation-duration: 1s;
     animation-fill-mode: forwards;
@@ -776,7 +776,7 @@ p {
     position:absolute;
     left: 32%;
     animation-name: downToUp1c;
-    animation-delay: 26.5s;
+    animation-delay: 25s;
     animation-direction: alternate;
     animation-duration: 1s;
     animation-fill-mode: forwards;
@@ -788,7 +788,7 @@ p {
     position:absolute;
     left: 36%;
     animation-name: downToUp1c;
-    animation-delay: 27s;
+    animation-delay: 26s;
     animation-direction: alternate;
     animation-duration: 1s;
     animation-fill-mode: forwards;
@@ -806,9 +806,9 @@ p > .word46 > a {
     position: absolute;
     left: 46%;
     animation-name: fontChangeAppear3;
-    animation-delay: 28s;
+    animation-delay: 27s;
     animation-direction: alternate;
-    animation-duration: 1s;
+    animation-duration: 1.5s;
     animation-fill-mode: forwards;
     animation-iteration-count: infinite;
     animation-timing-function: ease-out;
@@ -1089,7 +1089,7 @@ p > .word46 > a {
     animation-name: scaleFontAppear2;
     animation-delay: 13.5s;
     animation-direction: alternate;
-    animation-duration: 1s;
+    animation-duration: 1.5s;
     animation-fill-mode: forwards;
     animation-iteration-count: infinite;
     animation-timing-function: ease-out;
@@ -1487,30 +1487,6 @@ p > .word46 > a {
     animation-timing-function: ease-out;  
 }
 
-.word64b {
-    position: absolute;  
-    left: 51%;
-    animation-name: goRight5;
-    animation-delay: 15.5s;
-    animation-direction: alternate;
-    animation-duration: 1s;
-    animation-fill-mode: forwards;
-    animation-iteration-count: once;
-    animation-timing-function: ease-out;  
-}
-
-.word64c {
-    position: absolute;  
-    left: 52%;
-    animation-name: goRight6;
-    animation-delay: 16s;
-    animation-direction: alternate;
-    animation-duration: 1s;
-    animation-fill-mode: forwards;
-    animation-iteration-count: once;
-    animation-timing-function: ease-out;  
-}
-
 .word65a {
     font-family: "adorn-smooth-condensed-sans", sans-serif;
     font-weight: 400;
@@ -1518,7 +1494,7 @@ p > .word46 > a {
     position: absolute;  
     left: 36%;
     animation-name: wordAppearDown2;
-    animation-delay: 17s;
+    animation-delay: 16s;
     animation-direction: alternate;
     animation-duration: 1s;
     animation-fill-mode: forwards;
@@ -1533,7 +1509,7 @@ p > .word46 > a {
     position: absolute;  
     left: 39%;
     animation-name: wordAppearUp2;
-    animation-delay: 17.5s;
+    animation-delay: 16.5s;
     animation-direction: alternate;
     animation-duration: 1s;
     animation-fill-mode: forwards;
@@ -1548,7 +1524,7 @@ p > .word46 > a {
     position: absolute;  
     left: 42.3%;
     animation-name: wordAppearDown2;
-    animation-delay: 18s;
+    animation-delay: 17s;
     animation-direction: alternate;
     animation-duration: 1s;
     animation-fill-mode: forwards;
@@ -1563,7 +1539,7 @@ p > .word46 > a {
     position: absolute;  
     left: 46%;
     animation-name: wordAppearUp2;
-    animation-delay: 18.5s;
+    animation-delay: 17.5s;
     animation-direction: alternate;
     animation-duration: 1s;
     animation-fill-mode: forwards;
@@ -1580,9 +1556,9 @@ p > .word46 > a {
     position: absolute;  
     left: 59%;
     animation-name: scaleFontAppear3;
-    animation-delay: 19s;
+    animation-delay: 18s;
     animation-direction: alternate;
-    animation-duration: 1s;
+    animation-duration: 1.5s;
     animation-fill-mode: forwards;
     animation-iteration-count: infinite;
     animation-timing-function: ease-out; 
@@ -1922,7 +1898,7 @@ p > .word46 > a {
     animation-name: runRight;
     animation-delay: 17s;
     animation-direction: alternate;
-    animation-duration: 1s;
+    animation-duration: 1.5s;
     animation-fill-mode: forwards;
     animation-iteration-count: infinite;
     animation-timing-function: ease-out; 
@@ -2266,7 +2242,7 @@ p > .word46 > a {
     animation-name: turnLeft6;
     animation-delay: 19.5s;
     animation-direction: alternate;
-    animation-duration: 1s;
+    animation-duration: 1.5s;
     animation-fill-mode: forwards;
     animation-iteration-count: infinite;
     animation-timing-function: ease-out;
@@ -2286,7 +2262,7 @@ p > .word46 > a {
     animation-name: fontShow1;
     animation-delay: none;
     animation-direction: alternate;
-    animation-duration: 2s;
+    animation-duration: 1.5s;
     animation-fill-mode: forwards;
     animation-iteration-count: infinite;
     animation-timing-function: ease-out;
@@ -2978,42 +2954,14 @@ p > .word46 > a {
 @keyframes goRight4 {
     from {
         margin-right: 40%;
-        margin-top: 28%;
-        color: #003E5F;
-    }
-    to {
-        margin-left: 5%;
-        margin-top: 28%;
-        color:#9728c7;
-        transform: skew(30deg) scale(150%);
-}
-}
-
-@keyframes goRight5 {
-    from {
-        margin-right: 40%;
         margin-top: 27%;
         color: #003E5F;
     }
     to {
         margin-left: 5%;
         margin-top: 27%;
-        color:#dc8afe;
-        transform: skew(30deg) scale(180%);
-}
-}
-
-@keyframes goRight6 {
-    from {
-        margin-right: 40%;
-        margin-top: 26%;
-        color: #003E5F;
-    }
-    to {
-        margin-left: 5%;
-        margin-top: 26%;
         color:#e9c7f7;
-        transform: skew(30deg) scale(200%);
+        transform: skew(30deg) scale(150%);
 }
 }
 
