@@ -54,6 +54,20 @@ The layout was experimented in Adobe XD to have a general view on how the projec
 </ul>
 
 ## Acknowledgment
-At first, the curvy or circle path with the text rendered along it was going to be the main idea for the project. But it requires JavaScript so the idea was revised. 
-
 The poem is called "Community Poem," written by <a href ="https://poemtheart.com/poems-about-community/">Sarah Shahzad.</a>
+
+Adobe XD version vs the final version: 
+
+Adobe XD
+<img src="./img/Page 1 - Home.png" alt="XD Home">
+<img src="./img/Page 2.png" alt="XD Page 2">
+<img src="./img/Page 3.png" alt="XD Page 3">
+<img src="./img/Page 4.png" alt="XD Page 4">
+<img src="./img/Page 5.png" alt="XD Page 5">
+
+Final version
+<img src="./img/Page 1 final.png" alt="Web home">
+<img src="./img/Page 2 final.png" alt="Web Page 2">
+<img src="./img/Page 3 final.png" alt="Web Page 3">
+<img src="./img/Credit page.png" alt="Credit page">
+
